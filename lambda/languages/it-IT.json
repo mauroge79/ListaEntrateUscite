@@ -1,0 +1,21 @@
+{
+    "SKILL_NAME": "Lista entrate uscite",
+    "HELP": [
+      "Questa skill permette di caricare su un google sheet i dati economici relativi a entrate e uscite"
+    ],
+    "HELP_REPROMPT": [
+      "Cosa vorresti fare?"
+    ],
+    "FALLBACK": [
+      "Mi dispiace, non ho capito. Ripeti per favore."
+    ],
+    "FALLBACK_REPROMPT": [
+      "Cosa vorresti fare?"
+    ],
+    "CANCEL_STOP_RESPONSE": [
+      "Ciao, ci vediamo",
+      "Okay. Rimango a disposizione"
+    ],
+    "ERROR": "Mi dispiace, non sono in grado di gestire la tua richiesta. Potresti ripetere per favore?",
+    "ERROR_REPROMPT": "Potresti ripetere per favore?"
+}
